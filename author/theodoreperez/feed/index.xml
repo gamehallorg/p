@@ -8,7 +8,7 @@
 	>
 
 <channel>
-	<title>Theodore Perez &#8211; CoV Media</title>
+	<title>Theodore Perez, Author at CoV Media</title>
 	<atom:link href="https://gamehallorg.github.io/p/author/theodoreperez/feed/" rel="self" type="application/rss+xml" />
 	<link>https://gamehallorg.github.io/p/author/theodoreperez/</link>
 	<description>Where Gaming Dreams Come to Life!</description>
@@ -29,7 +29,7 @@
 				<category><![CDATA[Pickleball Paddles]]></category>
 		<guid isPermaLink="false">https://gamehallorg.github.io/p/?p=1245</guid>
 
-					<description><![CDATA[Are you a strategy game enthusiast with a passion for commanding armies, building empires, and conquering foes? Have you ever dreamt of creating your own real-time strategy (RTS) game that brings your tactical visions to life? Look no further! This... ]]></description>
+					<description><![CDATA[Are you a strategy game enthusiast with a passion for commanding armies, building empires, and conquering foes? Have you ever dreamt of creating your own...]]></description>
 										<content:encoded><![CDATA[
 <p>Are you a strategy game enthusiast with a passion for commanding armies, building empires, and conquering foes? Have you ever dreamt of creating your own real-time strategy (RTS) game that brings your tactical visions to life? Look no further! This guide will walk you through the process of creating your very own RTS game from scratch, unleashing your creativity and strategic genius onto the virtual battlefield.</p>
 <div class="bf_toc_container">
@@ -45,7 +45,7 @@
 </nav>
 </div>
 <h3 id="bf_toc_1">Setting the Stage: Conceptualization and Planning</h3>
-<p><img alt='gamehall-org-1037098531589457407gol1-3274628' alt="how to make rts game" src='https://i0.wp.com/gamehall.org/wp-content/uploads/2023/08/gamehall.org-1037098531589457407gol1-3274628.jpg?w=858&#038;ssl=1' data-recalc-dims="1"/></p>
+<p><img alt='gamehall-org-1037098531589457407gol1-3274628' alt="how to make rts game" src='https://gamehallorg.github.io/p/wp-content/uploads/2023/08/https://gamehallorg.github.io/p-1037098531589457407gol1-3274628.jpg'/></p>
 <p>Before embarking on your epic game development journey, it&#8217;s crucial to lay the foundation by conceptualizing your RTS masterpiece. Brainstorm unique gameplay mechanics, factions, and storylines that will set your game apart from the rest. Dive deep into the lore and immerse yourself in the world you&#8217;re about to create. Outline the core objectives, resource systems, and victory conditions that will shape the gameplay experience.</p>
 </p>
 <p><h4>Defining Factions and World-building</h4>
@@ -55,7 +55,7 @@
 <p>The heart of any RTS game lies in its mechanics. Design how resources are gathered and managed, how units are produced and upgraded, and how battles are fought. Will you implement fog of war, base-building, or unique unit abilities? Devise a rock-solid foundation that ensures balance and a captivating gameplay experience.</p>
 </p>
 <p><h3 id="bf_toc_2">Bringing Your Vision to Life: Development</h3>
-<p><img alt='gamehall-org-digipen-duo-make-mark-rts-genre-byte-lynx-9632388' alt="how to make rts game" src='https://i0.wp.com/gamehall.org/wp-content/uploads/2023/08/gamehall.org-digipen-duo-make-mark-rts-genre-byte-lynx-9632388.jpg?w=858&#038;ssl=1' data-recalc-dims="1"/></p>
+<p><img alt='gamehall-org-digipen-duo-make-mark-rts-genre-byte-lynx-9632388' alt="how to make rts game" src='https://gamehallorg.github.io/p/wp-content/uploads/2023/08/https://gamehallorg.github.io/p-digipen-duo-make-mark-rts-genre-byte-lynx-9632388.jpg'/></p>
 <p>With your concept solidified, it&#8217;s time to dive into development. Whether you&#8217;re a seasoned programmer or a newcomer to coding, there are tools and resources that cater to all skill levels.</p>
 </p>
 <p><h4>Choosing the Right Engine</h4>
@@ -65,14 +65,14 @@
 <p>Visuals play a significant role in player engagement. Create captivating 2D or 3D assets for units, buildings, and environments. Craft landscapes that reflect the factions&#8217; themes and align with the game&#8217;s narrative. Utilize graphic design software or collaborate with artists to ensure your vision comes to life.</p>
 </p>
 <p><h3 id="bf_toc_3">Balancing Act: Testing and Iteration</h3>
-<p><img alt='gamehall-org-main-1920x1080-36891711447d57c83e6882ef100589fb-3104199' alt="how to make rts game" src='https://i0.wp.com/gamehall.org/wp-content/uploads/2023/08/gamehall.org-main-1920x1080-36891711447d57c83e6882ef100589fb-3104199.jpg?w=858&#038;ssl=1' data-recalc-dims="1"/></p>
+<p><img alt='gamehall-org-main-1920x1080-36891711447d57c83e6882ef100589fb-3104199' alt="how to make rts game" src='https://gamehallorg.github.io/p/wp-content/uploads/2023/08/https://gamehallorg.github.io/p-main-1920x1080-36891711447d57c83e6882ef100589fb-3104199.jpg'/></p>
 <p>As your game takes shape, rigorous testing becomes essential to achieve optimal balance and gameplay. Involve beta testers to gain fresh perspectives and identify areas for improvement.</p>
 </p>
 <p><h4>Beta Testing and Feedback Loop</h4>
 <p>Release a beta version to gather valuable feedback from a diverse group of players. Analyze their experiences, noting pain points and areas of enjoyment. Iteratively refine gameplay mechanics, adjust unit attributes, and address any technical issues reported.</p>
 </p>
 <p><h3 id="bf_toc_4">Ready, Set, Launch: Deployment and Release</h3>
-<p><img alt='gamehall-org-gipio-1938340' alt="how to make rts game" src='https://i0.wp.com/gamehall.org/wp-content/uploads/2023/08/gamehall.org-gipio-1938340.jpg?w=858&#038;ssl=1' data-recalc-dims="1"/></p>
+<p><img alt='gamehall-org-gipio-1938340' alt="how to make rts game" src='https://gamehallorg.github.io/p/wp-content/uploads/2023/08/https://gamehallorg.github.io/p-gipio-1938340.jpg'/></p>
 <p>With your game polished and refined, the moment of truth arrives  release day. Successfully launching your RTS game involves strategic marketing and community engagement.</p>
 </p>
 <p><h4>Marketing and Community Building</h4>
@@ -82,7 +82,7 @@
 <p>Celebrate your hard work as you officially release your RTS game to the world. Ensure a smooth launch by monitoring server stability and addressing any immediate issues. Plan post-launch content updates, balance tweaks, and expansion packs to keep players engaged and invested.</p>
 </p>
 <p><h3 id="bf_toc_5">The Journey Continues: Evolving Your RTS Game</h3>
-<p><img alt='gamehall-org-strategynosequels-2572604' alt="how to make rts game" src='https://i0.wp.com/gamehall.org/wp-content/uploads/2023/08/gamehall.org-strategynosequels-2572604.jpg?w=858&#038;ssl=1' data-recalc-dims="1"/></p>
+<p><img alt='gamehall-org-strategynosequels-2572604' alt="how to make rts game" src='https://gamehallorg.github.io/p/wp-content/uploads/2023/08/https://gamehallorg.github.io/p-strategynosequels-2572604.jpg'/></p>
 <p>Your journey doesn&#8217;t end at launch. As your player base grows and feedback keeps pouring in, continue to evolve and refine your game to deliver an exceptional experience.</p>
 </p>
 <p><h4>Community Feedback and Updates</h4>
@@ -109,7 +109,7 @@
 				<category><![CDATA[Invitation]]></category>
 		<guid isPermaLink="false">https://gamehallorg.github.io/p/?p=825</guid>
 
-					<description><![CDATA[As a devoted gamer, you&#8217;ve probably pondered this question: Are Steam games playable offline? In this guide, we&#8217;ll delve into the fascinating world of offline gaming through Steam and uncover the ins and outs of this intriguing topic. Table Of... ]]></description>
+					<description><![CDATA[As a devoted gamer, you&#8217;ve probably pondered this question: Are Steam games playable offline? In this guide, we&#8217;ll delve into the fascinating world of offline...]]></description>
 										<content:encoded><![CDATA[</p>
 <p><p>As a devoted gamer, you&#8217;ve probably pondered this question: Are Steam games playable offline? In this guide, we&#8217;ll delve into the fascinating world of offline gaming through Steam and uncover the ins and outs of this intriguing topic.</p>
 </p>
@@ -125,11 +125,11 @@
 </nav>
 </div>
 <h3 id="bf_toc_1">Exploring Offline Gaming</h3>
-<p><img decoding="async" alt="Are Steam games playable offline" src="https://i0.wp.com/cdn.mos.cms.futurecdn.net/Zb3DVXHnCWcSM243qzpKWe.jpg?w=858&#038;ssl=1" data-recalc-dims="1"/></p>
+<p><img decoding="async" alt="Are Steam games playable offline" src="https://cdn.mos.cms.futurecdn.net/Zb3DVXHnCWcSM243qzpKWe.jpg"/></p>
 <p>Understanding the realm of offline gaming is essential before we tackle Steam&#8217;s role in it. Offline gaming refers to the ability to enjoy your favorite games even without an active internet connection. This feature is a game-changer for many players, allowing them to indulge in their passion without being tethered to the online world.</p>
 </p>
 <p><h3 id="bf_toc_2">The Steam Platform</h3>
-<p><img decoding="async" alt="Are Steam games playable offline" src="https://i0.wp.com/i.redd.it/i-lost-internet-and-still-wanted-to-play-some-steam-games-v0-7gd5qhr6nhfb1.jpg?w=858&#038;ssl=1" data-recalc-dims="1"/></p>
+<p><img decoding="async" alt="Are Steam games playable offline" src="https://i.redd.it/i-lost-internet-and-still-wanted-to-play-some-steam-games-v0-7gd5qhr6nhfb1.jpg"/></p>
 <p>Steam, developed by Valve Corporation, is a renowned digital distribution platform for video games. It has transformed the way we acquire and enjoy games, offering a vast library of titles from various genres. But the question remains: Can you access your Steam games when you&#8217;re offline?</p>
 </p>
 <p><h4>Offline Mode: A Savior for Gamers</h4>
@@ -139,11 +139,11 @@
 <p>Activating Offline Mode on Steam is straightforward. Simply launch Steam while connected to the internet, go to the &#8220;Steam&#8221; menu, and select &#8220;Go Offline.&#8221; This will enable Offline Mode and grant you access to your downloaded games. It&#8217;s important to note that you should activate Offline Mode before you lose your internet connection for the best results.</p>
 </p>
 <p><h3 id="bf_toc_3">Limitations and Considerations</h3>
-<p><img alt='gamehall-org-eklr4no6adtcnhnulv3cc3-1351221' alt="Are Steam games playable offline" src='https://i0.wp.com/gamehall.org/wp-content/uploads/2023/08/gamehall.org-eklr4no6adtcnhnulv3cc3-1351221.jpg?w=858&#038;ssl=1' data-recalc-dims="1"/></p>
+<p><img alt='gamehall-org-eklr4no6adtcnhnulv3cc3-1351221' alt="Are Steam games playable offline" src='https://gamehallorg.github.io/p/wp-content/uploads/2023/08/https://gamehallorg.github.io/p-eklr4no6adtcnhnulv3cc3-1351221.jpg'/></p>
 <p>While Steam&#8217;s Offline Mode is a game-changer, it&#8217;s essential to understand its limitations. Not all games are available in offline mode, especially those that require a constant online connection for multiplayer or other features. Additionally, you won&#8217;t be able to access Steam&#8217;s community features, such as trading or communicating with friends, while in Offline Mode.</p>
 </p>
 <p><h3 id="bf_toc_4">Conclusion</h3>
-<p><img alt='gamehall-org-0rvxk7xg8su41-1284545' alt="Are Steam games playable offline" src='https://i0.wp.com/gamehall.org/wp-content/uploads/2023/08/gamehall.org-0rvxk7xg8su41-1284545.jpg?w=858&#038;ssl=1' data-recalc-dims="1"/></p>
+<p><img alt='gamehall-org-0rvxk7xg8su41-1284545' alt="Are Steam games playable offline" src='https://gamehallorg.github.io/p/wp-content/uploads/2023/08/https://gamehallorg.github.io/p-0rvxk7xg8su41-1284545.jpg'/></p>
 <p>In conclusion, the answer to the question &#8220;Are Steam games playable offline?&#8221; is a resounding yes, thanks to Steam&#8217;s Offline Mode. This feature empowers gamers to enjoy their favorite titles without the constraints of an internet connection. Whether you&#8217;re traveling, facing internet issues, or simply prefer a solo gaming experience, Steam&#8217;s Offline Mode ensures that your gaming journey remains uninterrupted.</p></p>
 ]]></content:encoded>
 					
@@ -162,7 +162,7 @@
 				<category><![CDATA[Water Bottles]]></category>
 		<guid isPermaLink="false">https://gamehallorg.github.io/p/?p=736</guid>
 
-					<description><![CDATA[If you&#8217;re an avid gamer with a Core i5 laptop boasting 8GB of RAM, you&#8217;re in luck! Despite not having the latest cutting-edge specs, your machine is more capable than you might think. There&#8217;s a plethora of action-packed games that... ]]></description>
+					<description><![CDATA[If you&#8217;re an avid gamer with a Core i5 laptop boasting 8GB of RAM, you&#8217;re in luck! Despite not having the latest cutting-edge specs, your...]]></description>
 										<content:encoded><![CDATA[
 <p>If you&#8217;re an avid gamer with a Core i5 laptop boasting 8GB of RAM, you&#8217;re in luck! Despite not having the latest cutting-edge specs, your machine is more capable than you might think. There&#8217;s a plethora of action-packed games that can run smoothly on your laptop without compromising your gaming experience. Dive into the world of thrilling gameplay and immersive graphics with these titles perfectly suited for your hardware.</p>
 <div class="bf_toc_container">
@@ -177,11 +177,11 @@
 </nav>
 </div>
 <h3 id="bf_toc_1">Exploring the Action Genre</h3>
-<p><img alt='gamehall-org-surface-laptop-5-02-2840523' alt="What type of action games is better for my Core i5, 8GB RAM laptop What are some games that I can run on my laptop smoothly" src='https://i0.wp.com/gamehall.org/wp-content/uploads/2023/08/gamehall.org-surface-laptop-5-02-2840523.jpg?w=858&#038;ssl=1' data-recalc-dims="1"/></p>
+<p><img alt='gamehall-org-surface-laptop-5-02-2840523' alt="What type of action games is better for my Core i5, 8GB RAM laptop What are some games that I can run on my laptop smoothly" src='https://gamehallorg.github.io/p/wp-content/uploads/2023/08/https://gamehallorg.github.io/p-surface-laptop-5-02-2840523.jpg'/></p>
 <p>Action games have long been a staple of gaming culture, offering fast-paced gameplay, adrenaline-pumping challenges, and exciting narratives. They span a variety of subgenres, from first-person shooters to platformers, ensuring there&#8217;s something for every type of gamer. Let&#8217;s delve into the types of action games that will shine on your Core i5 laptop.</p>
 </p>
 <p><h3 id="bf_toc_2">Choosing the Right Games</h3>
-<p><img alt='gamehall-org-07fmjxnd7ck3age97fazoek-1-v1640182987-2608677' alt="What type of action games is better for my Core i5, 8GB RAM laptop What are some games that I can run on my laptop smoothly" src='https://i0.wp.com/gamehall.org/wp-content/uploads/2023/08/gamehall.org-07fmjxnd7ck3age97fazoek-1.v1640182987-2608677.jpg?w=858&#038;ssl=1' data-recalc-dims="1"/></p>
+<p><img alt='gamehall-org-07fmjxnd7ck3age97fazoek-1-v1640182987-2608677' alt="What type of action games is better for my Core i5, 8GB RAM laptop What are some games that I can run on my laptop smoothly" src='https://gamehallorg.github.io/p/wp-content/uploads/2023/08/https://gamehallorg.github.io/p-07fmjxnd7ck3age97fazoek-1.v1640182987-2608677.jpg'/></p>
 <p>Not all action games are created equal when it comes to performance optimization. Here are some criteria to consider when selecting games that will run smoothly on your laptop:</p>
 <ul>
 <li>Graphics and Visuals: Look for games with stylized or moderately detailed graphics rather than ultra-realistic visuals that might strain your system.</li>
@@ -190,7 +190,7 @@
 <li>Community Feedback: Online forums and reviews often provide valuable insights into a game&#8217;s performance on various hardware configurations.</li>
 </ul>
 <p><h3 id="bf_toc_3">Top Action Games for Your Laptop</h3>
-<p><img alt='gamehall-org-ipad-pro-2048px-9910-3918135' alt="What type of action games is better for my Core i5, 8GB RAM laptop What are some games that I can run on my laptop smoothly" src='https://i0.wp.com/gamehall.org/wp-content/uploads/2023/08/gamehall.org-ipad-pro-2048px-9910-3918135.jpg?w=858&#038;ssl=1' data-recalc-dims="1"/></p>
+<p><img alt='gamehall-org-ipad-pro-2048px-9910-3918135' alt="What type of action games is better for my Core i5, 8GB RAM laptop What are some games that I can run on my laptop smoothly" src='https://gamehallorg.github.io/p/wp-content/uploads/2023/08/https://gamehallorg.github.io/p-ipad-pro-2048px-9910-3918135.jpg'/></p>
 <p>Here are some action-packed titles that are known for their optimization and can deliver an exceptional gaming experience on your laptop:</p>
 <ul>
 <li><strong>Hotline Miami:</strong> This top-down shooter blends intense action, retro aesthetics, and a killer soundtrack to create an addictive experience.</li>
@@ -199,7 +199,7 @@
 <li><strong>Undertale:</strong> This unique RPG action hybrid combines clever mechanics with a compelling narrative and memorable characters.</li>
 </ul>
 <p><h3 id="bf_toc_4">Optimizing Performance</h3>
-<p><img alt='gamehall-org-02mvcibvmaw7fvp7b3img3s-12-v1600353590-8808969' alt="What type of action games is better for my Core i5, 8GB RAM laptop What are some games that I can run on my laptop smoothly" src='https://i0.wp.com/gamehall.org/wp-content/uploads/2023/08/gamehall.org-02mvcibvmaw7fvp7b3img3s-12.v1600353590-8808969.jpg?w=858&#038;ssl=1' data-recalc-dims="1"/></p>
+<p><img alt='gamehall-org-02mvcibvmaw7fvp7b3img3s-12-v1600353590-8808969' alt="What type of action games is better for my Core i5, 8GB RAM laptop What are some games that I can run on my laptop smoothly" src='https://gamehallorg.github.io/p/wp-content/uploads/2023/08/https://gamehallorg.github.io/p-02mvcibvmaw7fvp7b3img3s-12.v1600353590-8808969.jpg'/></p>
 <p>While these games are well-suited for your laptop&#8217;s specs, a few tips can further enhance your gaming experience:</p>
 <ul>
 <li>Adjust Graphics Settings: Most games allow you to tweak graphics settings to strike a balance between performance and visuals.</li>
