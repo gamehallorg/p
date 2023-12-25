@@ -1,2 +1,1 @@
-# p
-Home Gh-pages
+# Source code for the [GameHall](https://gamehallorg.github.io/p/)
