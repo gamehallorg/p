@@ -1,1 +1,1 @@
-# Source code for the [GameHall](https://gamehallorg.github.io/p/)
+# Source code for the [GameHall](https://gamehallorg.github.io/post/)
